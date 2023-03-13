@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "123",
+      "title": "This is for test",
+      "description": "Test for real",
+      "content": "What are you expecting? This is the testing data. Or is this?",
+      "date": "Sun Mar 12 2023"
+    },
+    {
+      "id": "456",
+      "title": "This is for test",
+      "description": "Test for real",
+      "content": "What are you expecting? This is the testing data",
+      "date": "13/10/2001"
+    },
+    {
+      "id": "789",
+      "title": "This is for test",
+      "description": "Test for real",
+      "content": "What are you expecting? This is the testing data",
+      "date": "13/10/2001"
+    },
+    {
+      "id": "fc90efcb-caaa-417c-86f4-ad1910e411d6",
+      "title": "Name",
+      "description": "description",
+      "date": "Mon Mar 13 2023"
+    }
+  ]
+}
